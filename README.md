@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1># 🟢 ML_PERTEMUAN2</h1>
+<h1>🟢 ML_PERTEMUAN2</h1>
 </div>
 
 <div align="center">
