@@ -1,8 +1,7 @@
 
-# 🟢 ML_PERTEMUAN2
-
 <div align="center">
-
+# 🟢 ML_PERTEMUAN2
+  
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Educational](https://img.shields.io/badge/Project-Tutorial-informational)]()
 [![Author](https://img.shields.io/badge/Author-MBAHSINGO22-blue)](https://github.com/MBAHSINGO22)
