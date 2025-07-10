@@ -44,46 +44,6 @@ ML_PERTEMUAN2/
 
 ---
 
-## ▶️ Menjalankan Program
-
-### 1. Kloning Repositori:
-
-```bash
-git clone https://github.com/MBAHSINGO22/ML_PERTEMUAN2.git
-cd ML_PERTEMUAN2
-```
-
-### 2. Pastikan Python Terinstal:
-
-Periksa versi Python:
-
-```bash
-python --version
-```
-
-Jika belum terinstal, unduh dari [python.org](https://www.python.org/).
-
-### 3. Jalankan Skrip:
-
-```bash
-python <nama_skrip>.py
-```
-
-Contoh:
-
-```bash
-python Lingkaran.py
-```
-
----
-
-## 🟢 Catatan
-
-- `Lingkaranimport.py` menggunakan modul `math` (termasuk dalam pustaka standar Python).
-- ⚠️ Pastikan memasukkan input sesuai petunjuk: angka untuk perhitungan, teks untuk pengecekan palindrom.
-
----
-
 ## 📈 Contoh Output
 
 **Lingkaran.py**
