@@ -1,6 +1,9 @@
 
 <div align="center">
-# 🟢 ML_PERTEMUAN2
+<h1># 🟢 ML_PERTEMUAN2</h1>
+</div>
+
+<div align="center">
   
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Educational](https://img.shields.io/badge/Project-Tutorial-informational)]()
